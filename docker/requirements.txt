@@ -1,5 +1,5 @@
+tqdm
 pandas
 mordred
-pillow
-pubchempy
+Pillow
 jupyterlab
