@@ -1,5 +1,6 @@
 tqdm
 pandas
+networkx==2.1.0
 mordred
 Pillow
 jupyterlab
